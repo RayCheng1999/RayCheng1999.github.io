@@ -1,4 +1,4 @@
-
+<table>
   <tr>
     <td width="75%">
       <h1>RayCheng</h1>
@@ -11,5 +11,5 @@
       <img src="/RayCheng.jpg" width="100%">
     </td>
   </tr>
-
+</table>
 
