@@ -15,6 +15,14 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+### 个人信息
+#### 姓名Name：RayCheng
+#### 学历Education Background：
+#### 邮箱E-mail:
+#### 地址Address：
+### 研究方向：知识图谱Knowledge Graph
+### 荣誉奖励：“初创”奖学金Start-Up Scholarship
+### 项目研究
 - Bulleted
 - List
 
