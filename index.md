@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
-    <td width="75%">
-      <h1>成磊</h1>
+    <td width="100%">
+      <h1>RayCheng</h1>
       <p><b>硕士研究生</b></p>
       <p><b>北京大学软件与微电子学院</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>
